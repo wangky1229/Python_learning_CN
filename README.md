@@ -1,3 +1,3 @@
-# Python_learning_CN\
+# Python_learning_CN
 本项目为开放给所有在CEA-Marcoule工作的使用中文的人使用的python学习计划
 任何人都可以上传自己的内容和精品代码
