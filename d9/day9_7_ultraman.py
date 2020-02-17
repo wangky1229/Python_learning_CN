@@ -144,7 +144,7 @@ def display_info(ultraman, monsters):
 
 
 def main():
-    u = Ultraman('骆昊', 1000, 120)
+    u = Ultraman('骆昊', 800, 80)
     m1 = Monster('狄仁杰', 250)
     m2 = Monster('白元芳', 500)
     m3 = Monster('王大锤', 750)
